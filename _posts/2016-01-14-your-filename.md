@@ -3,6 +3,11 @@ published: true
 ---
 
 
+---
+layout: post
+title: You're up and running!
+---
+
 ## A New Post
 
 # A test
